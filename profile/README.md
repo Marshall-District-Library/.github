@@ -4,7 +4,7 @@ At the **Marshall District Library (MDL)**, we believe in the power of informati
 
 🌟 Explore what MDL has to offer:
 - 📚 **Discover our resources and programs**: [Visit our main website](https://yourmdl.org) for updates, events, and access to your library account.
-- 🗃️ **Dive into our local archives**: Explore Marshall's rich history through the [MDL Digital Archives](https://archives.yourmdl.org).
+- 🗃️ **Dive into our local archives**: Explore Marshall's rich history through the [MDL Digital Archive](https://archive.yourmdl.org).
 
 ## 🚀 About this GitHub Profile
 
